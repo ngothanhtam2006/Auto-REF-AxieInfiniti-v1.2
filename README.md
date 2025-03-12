@@ -21,4 +21,4 @@
 # 👨‍💻 **CONTACT AUTHOR FOR WORK**
 
 📢 **Telegram**: [@nttammeo](https://t.me/nttammeo) 💬
-
+✉️ **Group Chat**: [@TakShopCommunity](https://t.me/TakShopCommunity/1)
