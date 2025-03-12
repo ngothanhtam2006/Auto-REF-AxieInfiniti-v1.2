@@ -1,4 +1,4 @@
-# ♻️ *YÊU CẦU | REQUIREMENTS*
+# ♻️ ***YÊU CẦU | REQUIREMENTS***
 - ✅ *Chỉ cần là 1 đơn hàng trên @TakMMO_BOT (dù chỉ 1USD) sẽ tự động được gửi kèm 1 Key Active 1 Ngày cho TỪNG THIẾT BỊ.* 📲🔒 *(Không lo lộ License Key - Bảo mật tuyệt đối! 🔐)*
 - 🌍 *Proxies IPv4 (Trước đây không cần, nhưng API vừa UPDATE để chặn spam, vì vậy bắt buộc phải dùng proxies! 🚀)*
 
