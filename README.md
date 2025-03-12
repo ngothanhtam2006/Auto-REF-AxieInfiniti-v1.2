@@ -16,7 +16,7 @@
 
 # 🛒 **BUY PROXIES**
 
-📩 **TELEGRAM**: [@TakMMO_BOT](https://t.me/TakMMO_BOT) 🤖
+- 📩 **TELEGRAM**: [@TakMMO_BOT](https://t.me/TakMMO_BOT) 🤖
 
 # 👨‍💻 **CONTACT AUTHOR FOR WORK**
 
