@@ -3,6 +3,6 @@ numpy
 pillow
 requests
 colorama
-pycryptodome
+pycryptodomex
 keyboard
 pyarmor
