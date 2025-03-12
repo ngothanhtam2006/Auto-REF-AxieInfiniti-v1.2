@@ -5,7 +5,7 @@
 # 🚀 **ƯU ĐIỂM | ADVANTAGES**
 - 🔄 Chạy REF **Không giới hạn số lượng link** 📈
 - ⚡ **Tốc độ cực nhanh (Tối đa 30 luồng - 1K REF ~ 20-30 phút)** 🚀
-- ❌ **ói không với backdoor proxies nên không lo bị ăn cắp dữ liệu** 🛡️🔐
+- ❌ **Nói không với backdoor proxies nên không lo bị ăn cắp dữ liệu** 🛡️🔐
 
 # 🛠️ **CẤU HÌNH | CONFIGURATION**
 - 🔗 **Link REF: Link|Số lượng** 🔗
