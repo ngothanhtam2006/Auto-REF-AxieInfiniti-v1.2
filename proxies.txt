@@ -1,2 +1,1 @@
-griffin.tunproxy.net:34061:TakTreo:TakTreo
-vortex.tunproxy.net:45733:TakTreo:TakTreo
+IP:Port:User:Pass
