@@ -9,7 +9,7 @@
 
 # 🛠️ **CẤU HÌNH**  
 - 🔗 **Link REF: Link|Số lượng** 🔗  
-- 🌐 **Proxies: IP:Port:User:Pass** 🌍  
+- 🌐 **Proxies HTTP: IP:Port:User:Pass** 🌍  
 
 # 🛒 **MUA PROXIES**  
 - 📩 **TELEGRAM: [@TakMMO_BOT](https://t.me/TakMMO_BOT)** 🤖  
@@ -40,7 +40,7 @@
 
 # 🛠️ **CONFIGURATION**  
 - 🔗 **REF Link: Link|Quantity** 🔗  
-- 🌐 **Proxies: IP:Port:User:Pass** 🌍  
+- 🌐 **Proxies HTTP: IP:Port:User:Pass** 🌍  
 
 # 🛒 **BUY PROXIES**  
 - 📩 **TELEGRAM: [@TakMMO_BOT](https://t.me/TakMMO_BOT)** 🤖  
