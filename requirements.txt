@@ -5,4 +5,4 @@ requests
 colorama
 pycryptodomex
 keyboard
-pyarmor
+
