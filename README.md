@@ -21,7 +21,7 @@
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
 ### 🔧 **Tải file .exe**  
 - ```sh  
-  Kiểm tra phần [realease](https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases)  
+  https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases
 
 ### 🚀 **Chạy chương trình**
 - ```sh
@@ -52,7 +52,7 @@
 # 📌 **USAGE GUIDE**  
 ### 🔧 **Install .exe File:**  
 - ```sh  
-  Please check the [realease](https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases)  
+  https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases
 ### 🚀 **Run**
 - ```sh
   python TakAxie.py
