@@ -19,9 +19,9 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
-### 🔧 **Cài đặt thư viện cần thiết:**  
+### 🔧 **Tải file .exe**  
 - ```sh  
-  pip install -r requirements.txt  
+  Kiểm tra phần [realease](https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases)  
 
 ### 🚀 **Chạy chương trình**
 - ```sh
@@ -50,9 +50,9 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **USAGE GUIDE**  
-### 🔧 **Install required libraries:**  
+### 🔧 **Install .exe File:**  
 - ```sh  
-  pip install -r requirements.txt  
+  Please check the [realease](https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases)  
 ### 🚀 **Run**
 - ```sh
   python TakAxie.py
