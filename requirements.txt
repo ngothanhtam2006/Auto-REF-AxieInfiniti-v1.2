@@ -1,8 +1,0 @@
-opencv-python
-numpy
-pillow
-requests
-colorama
-pycryptodomex
-keyboard
-
