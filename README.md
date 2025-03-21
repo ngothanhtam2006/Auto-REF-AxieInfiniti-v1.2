@@ -1,23 +1,17 @@
 # ♻️ **YÊU CẦU**  
-- ✅ **Bảng giá Key/Source Code:**
-- ```sh  
-  700k 1 tháng 1 thiết bị
-  1tr200k vĩnh viễn 1 thiết bị
-  3tr full code
-  
+- ✅ **Chỉ cần có 1 đơn hàng trên @TakMMO_BOT (dù chỉ 1USD), bạn sẽ tự động nhận được 1 Key Active 1 ngày cho từng thiết bị.** 📲🔒 **(Không lo lộ License Key - Bảo mật tuyệt đối! 🔐)**  
+- 🌍 **Proxies IPv4 (Trước đây không cần, nhưng API vừa UPDATE để chặn spam, vì vậy bắt buộc phải dùng proxies! 🚀)**  
+
 # 🚀 **ƯU ĐIỂM**  
 - 🔄 **Chạy REF không giới hạn số lượng link** 📈  
-- ⚡ **Tốc độ cực nhanh** 🚀
-- 🌍 **Hỗ trợ Bypass reCAPTCHA(2Captcha API)**   
+- ⚡ **Tốc độ cực nhanh (Tối đa 30 luồng - 1K REF ~ 20-30 phút)** 🚀  
 - ❌ **Nói không với backdoor proxies nên không lo bị ăn cắp dữ liệu** 🛡️🔐  
-- 🖼️ **Tự động tạo avatar & upload (hỗ trợ người Việt, không giới hạn)** 🎭  
-- 📧 **Lấy/Xác minh Gmail miễn phí (@gmail.com) hoàn toàn tự động và không giới hạn** ✉️
 
 # 🛠️ **CẤU HÌNH**  
 - 🔗 **Link REF: Link|Số lượng** 🔗  
-- 🛠️ **Config.json: 2captcha_api/upload_avt: N (Để không dùng 2Captcha/Không Upload AVT)**   
+- 🌐 **Proxies: IP:Port:User:Pass** 🌍  
 
-# 🛒 **MUA KEY**  
+# 🛒 **MUA PROXIES**  
 - 📩 **TELEGRAM: [@TakMMO_BOT](https://t.me/TakMMO_BOT)** 🤖  
 
 # 👨‍💻 **LIÊN HỆ HỖ TRỢ**  
@@ -25,47 +19,49 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
-### 🔧 **Tải thư viện cần thiết**  
+### 🔗**Tải Tool**
 - ```sh  
-  pip install -r requirements.txt
-
+  https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases/tag/main.exe
+  
+### 🔧 **Cài đặt thư viện cần thiết:**  
+- ```sh  
+  pip install -r requirements.txt  
+  
 ### 🚀 **Chạy chương trình**
-- ```sh  
-  run TakBeincomV1.2.exe
+- ```sh
+  python TakAxie.exe
 
 *English Version*
 
 # ♻️ **REQUIREMENTS**  
-- ✅ **Pricing for Key/Source Code:**
-- ```sh
-  700k per month per device
-  1.2 million VND for lifetime use on one device
-  3 million VND for full source code
+- ✅ **Only 1 order on @TakMMO_BOT (even just $1) will automatically receive a 1-day activation key for each device.** 📲🔒 **(No risk of License Key leaks - Absolute security! 🔐)**  
+- 🌍 **Proxies IPv4 (Previously not required, but the API has been updated to block spam, so proxies are now mandatory! 🚀)**  
 
 # 🚀 **ADVANTAGES**  
-- 🔄 **Unlimited REF link execution** 📈  
-- ⚡ **Ultra-fast speed** 🚀  
-- 🌍 **Supports Bypass reCAPTCHA (2Captcha API)**   
+- 🔄 **Unlimited REF links** 📈  
+- ⚡ **Super fast speed (Up to 30 threads - 1K REF ~ 20-30 minutes)** 🚀  
 - ❌ **No backdoor proxies, ensuring data security** 🛡️🔐  
-- 🖼️ **Automatically generates and uploads avatars (supports Vietnamese users, no limits)** 🎭  
-- 📧 **Automatically retrieves and verifies Gmail for free (@gmail.com, unlimited)** ✉️  
 
 # 🛠️ **CONFIGURATION**  
 - 🔗 **REF Link: Link|Quantity** 🔗  
-- 🛠️ **Config.json: 2captcha_api/upload_avt: N (To disable 2Captcha/Avatar Upload)**   
+- 🌐 **Proxies: IP:Port:User:Pass** 🌍  
 
-# 🛒 **PURCHASE KEY**  
+# 🛒 **BUY PROXIES**  
 - 📩 **TELEGRAM: [@TakMMO_BOT](https://t.me/TakMMO_BOT)** 🤖  
 
 # 👨‍💻 **CONTACT SUPPORT**  
 - 📢 **Telegram: [@nttammeo](https://t.me/nttammeo)** 💬  
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
-# 📌 **USER GUIDE**  
-### 🔧 **Install required libraries**  
+# 📌 **USAGE GUIDE** 
+### 🔗**Install Tool**
+- ```sh  
+  https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases/tag/main.exe
+  
+### 🔧 **Install required libraries:**  
 - ```sh  
   pip install -r requirements.txt
 
-### 🚀 **Run the program**
+### 🚀 **Run**
 - ```sh
-  run TakBeincomV1.2.exe
+  python TakAxie.exe
