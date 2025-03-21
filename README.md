@@ -1,17 +1,23 @@
 # ♻️ **YÊU CẦU**  
-- ✅ **Chỉ cần có 1 đơn hàng trên @TakMMO_BOT (dù chỉ 1USD), bạn sẽ tự động nhận được 1 Key Active 1 ngày cho từng thiết bị.** 📲🔒 **(Không lo lộ License Key - Bảo mật tuyệt đối! 🔐)**  
-- 🌍 **Proxies IPv4 (Trước đây không cần, nhưng API vừa UPDATE để chặn spam, vì vậy bắt buộc phải dùng proxies! 🚀)**  
-
+- ✅ **Bảng giá Key/Source Code:**
+- 
+sh
+  700k 1 tháng 1 thiết bị
+  1tr200k vĩnh viễn 1 thiết bị
+  3tr full code
 # 🚀 **ƯU ĐIỂM**  
 - 🔄 **Chạy REF không giới hạn số lượng link** 📈  
-- ⚡ **Tốc độ cực nhanh (Tối đa 30 luồng - 1K REF ~ 20-30 phút)** 🚀  
+- ⚡ **Tốc độ cực nhanh** 🚀
+- 🌍 **Hỗ trợ Bypass reCAPTCHA(2Captcha API)**   
 - ❌ **Nói không với backdoor proxies nên không lo bị ăn cắp dữ liệu** 🛡️🔐  
+- 🖼️ **Tự động tạo avatar & upload (hỗ trợ người Việt, không giới hạn)** 🎭  
+- 📧 **Lấy/Xác minh Gmail miễn phí (@gmail.com) hoàn toàn tự động và không giới hạn** ✉️
 
 # 🛠️ **CẤU HÌNH**  
 - 🔗 **Link REF: Link|Số lượng** 🔗  
-- 🌐 **Proxies HTTP: IP:Port:User:Pass** 🌍  
+- 🛠️ **Config.json: 2captcha_api/upload_avt: N (Để không dùng 2Captcha/Không Upload AVT)**   
 
-# 🛒 **MUA PROXIES**  
+# 🛒 **MUA KEY**  
 - 📩 **TELEGRAM: [@TakMMO_BOT](https://t.me/TakMMO_BOT)** 🤖  
 
 # 👨‍💻 **LIÊN HỆ HỖ TRỢ**  
@@ -20,12 +26,14 @@
 
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
 ### 🔧 **Tải file .exe**  
-- ```sh  
-  https://github.com/ngothanhtam2006/Auto-REF-AxieInfiniti-v1.2/releases
+-
+sh  
+  pip install -r requirements.txt
 
 ### 🚀 **Chạy chương trình**
-- ```sh
-  python TakAxie.py
+- 
+sh
+  run TakBeincomV1.2.exe
 
 *English Version*
 
