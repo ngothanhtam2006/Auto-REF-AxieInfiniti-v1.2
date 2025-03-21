@@ -1,10 +1,10 @@
 # ♻️ **YÊU CẦU**  
 - ✅ **Bảng giá Key/Source Code:**
-- 
-sh
+- ```sh  
   700k 1 tháng 1 thiết bị
   1tr200k vĩnh viễn 1 thiết bị
   3tr full code
+  
 # 🚀 **ƯU ĐIỂM**  
 - 🔄 **Chạy REF không giới hạn số lượng link** 📈  
 - ⚡ **Tốc độ cực nhanh** 🚀
@@ -26,13 +26,11 @@ sh
 
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
 ### 🔧 **Tải file .exe**  
--
-sh  
+- ```sh  
   pip install -r requirements.txt
 
 ### 🚀 **Chạy chương trình**
-- 
-sh
+- ```sh  
   run TakBeincomV1.2.exe
 
 *English Version*
