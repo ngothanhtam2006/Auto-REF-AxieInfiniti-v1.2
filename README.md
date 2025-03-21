@@ -25,7 +25,7 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **HƯỚNG DẪN SỬ DỤNG**  
-### 🔧 **Tải file .exe**  
+### 🔧 **Tải thư viện cần thiết**  
 - ```sh  
   pip install -r requirements.txt
 
@@ -62,7 +62,7 @@
 - ✉️ **Group Chat: [@TakShopCommunity](https://t.me/TakShopCommunity/1)**  
 
 # 📌 **USER GUIDE**  
-### 🔧 **Download the .exe file**  
+### 🔧 **Install required libraries**  
 - ```sh  
   pip install -r requirements.txt
 
